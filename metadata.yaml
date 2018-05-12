@@ -1,0 +1,37 @@
+_repo: Ethics-and-Modern-ThoughtA-Theory-of-Their-Relations_43405
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Seydewitz, Margaret von
+    alias: Von Seydewitz, Margaret
+    gutenberg_agent_id: '42189'
+    url: http://www.gutenberg.org/2009/agents/42189
+covers:
+- cover_type: archival
+  image_path: 43405-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eucken, Rudolf
+    aliases:
+    - Eucken, R.‏ (Rudolf)
+    - Eucken, Rudolf Christof
+    - Eucken, Rudolph
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '42188'
+    url: http://www.gutenberg.org/2009/agents/42188
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
+description: ''
+gutenberg_issued: '2013-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Ethics'
+title: 'Ethics and Modern Thought: A Theory of Their Relations'
+url: http://www.gutenberg.org/ebooks/43405
