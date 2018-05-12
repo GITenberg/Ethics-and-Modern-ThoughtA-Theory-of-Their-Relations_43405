@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42188
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43405#Ethics-and-Modern-ThoughtA-Theory-of-Their-Relations
 gutenberg_issued: '2013-08-06'
 gutenberg_type: Text
 identifiers:
